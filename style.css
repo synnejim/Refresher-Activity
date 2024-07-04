@@ -262,6 +262,7 @@ section {
 
 #about {
   position: relative;
+ 
 }
 
 .about-containers {
@@ -273,6 +274,7 @@ section {
 .about-details-container {
   justify-content: center;
   flex-direction: column;
+  margin-top: auto;
 }
 
 .about-containers,
